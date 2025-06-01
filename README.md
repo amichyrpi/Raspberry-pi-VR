@@ -8,5 +8,9 @@ a raspberry pi 4 at least 2gb of ram here is a link to get some https://www.kubi
 (the 3d files are based on the free 3d files from bigscreen beyond) for the 3d printing I will give you the stl and cad files in the release part I use 1. 2. 3D disigne for the cad files I am sorry but the cad files can only be opened by 1. 2. 3d disigne from what I know
 4. software:
 For the PC software you will use vridge (https://riftcat.com/) it is available on steam you will also install steamvr, for the raspberry side you will install android and two apk I will put them in the release section
+
 tutorial:
-1. print the stl files provided in the release section using ultimaker cura or other
+The tutorial will be available soon on the project's YouTube channel. I will put the link to the video below.
+
+available soon:
+a version with face tracking will soon be available and obviously not expensive😉😉
