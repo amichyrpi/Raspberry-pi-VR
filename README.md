@@ -11,7 +11,7 @@ a raspberry pi 4 at least 2gb of ram here is a link to get it https://www.kubii.
 
    ![image](https://github.com/user-attachments/assets/4f288e35-41b8-47d8-8b62-5beb0887c92a)
 
-but you can't use 2.0 tracker, you have to use 3.0 (I want to say that is not necessary to have them but that recomended if you want to have a 6dof tracking if your budget is tight you can use 3dof tracker like for example a slimevr tracker or a joycon: to connect a joycon to slimevr https://www.youtube.com/watch?v=E-BFpbL1ae8&t=437s
+but you can't use 2.0 tracker, you have to use 3.0 (I want to say that is not necessary to have them but that recomended if you want to have a 6dof tracking if your budget is tight you can use 3dof tracker like for example a slimevr tracker or a joycon: to connect a joycon to slimevr https://www.youtube.com/watch?v=E-BFpbL1ae8&t
 3. 3D printing:
 (the 3d files are based on the free 3d files from bigscreen beyond) for the 3d printing I will give you the stl and cad files in the release part I use 1. 2. 3D disigne for the cad files I am sorry but the cad files can only be opened by 1. 2. 3d disigne from what I know. the 3d files should look like this
 
