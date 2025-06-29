@@ -1,4 +1,7 @@
 # Raspberry-pi-VR
+
+# Important: If you don't have a Raspberry Pi or even want to make it easier to configure SteamVR files, I recommend downloading the setup from Releases. In this application, you will find the link for the SteamVR driver (for those who don't have a Raspberry Pi).
+
 This project allows anyone with a raspberry pi and $300 to create their own lighthouse track vr headset using several software and steamvr dependencies as I just said you will need a pc capable of running vr for me a gtx 1060 6gb and a ryzen 3 4100 is enough for the project I will give you the instructions to follow below
 1. Things you'll need:
 You'll need a 3D printer (you can find one on eBay for $100), a PC capable of running VR and time.
